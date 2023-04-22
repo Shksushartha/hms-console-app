@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7B3BDD25-1C7C-4A4F-AEA4-EF16D2EFCC41}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.hms PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="hms/Program.cs">
+    <Files>
+      <File FileName="hms/Program.cs" Line="17" Column="183" />
+      <File FileName="hms/Patient.cs" />
+      <File FileName="hms/Doctor.cs" />
+      <File FileName="hms/Admin.cs" />
+      <File FileName="hms/sConnection.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hms" expanded="True">
+            <Node name="hms" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
